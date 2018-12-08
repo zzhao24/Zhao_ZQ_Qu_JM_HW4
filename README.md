@@ -1,7 +1,7 @@
 # Zhao_ZQ_Qu_JM_HW4
 ## A/V App 
 This is an application about video.
-## Design
+## Designer
 * designer: Zhiqing Zhao
 * designed with
   * Adobe photoshop
