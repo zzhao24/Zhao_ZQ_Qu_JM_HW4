@@ -1,8 +1,19 @@
 {
-  "name": "Roku flashback A/V APP",
-  "version": "0.1.0",
-  "description": "Audio/Video App
-  "repository": "url": "git+https://github.com/zzhao24/Zhao_ZQ_Qu_JM_HW4.git"
-  "author": "Zhao_Zhiqing & Qu_Jiaming",
-  "license": "MIT",
+  "name": "autoapp",
+  "version": "1.0.0",
+  "description": "A/V APP",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhiqing Zhao & Jiaming Qu",
+  "license": "ISC",
+  "devDependencies": {
+    "foundation-sites": "^6.5.1",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.10.0"
+  }
 }
