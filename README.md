@@ -17,6 +17,11 @@ Practice build application for Roku streaming service.
 
 
 ## Authors
-* Designer: **Zhiqing Zhao
-* Developer: **Jiaming Qu 
+* Designer: **Zhiqing Zhao**
+* Developer: **Jiaming Qu**
+
+
+## License
+
+fanshawestudentspeoject
 
