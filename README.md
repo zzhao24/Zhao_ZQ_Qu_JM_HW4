@@ -21,6 +21,13 @@ Practice build application for Roku streaming service.
 * Developer: **Jiaming Qu**
 
 
+
+## Further development
+* Separate Kids section
+* Login functionality
+* Administrator permission module
+* ...
+
 ## License
 
 fanshawestudentspeoject
