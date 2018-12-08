@@ -30,4 +30,4 @@ Practice build application for Roku streaming service.
 
 ## License
 
-fanshawestudentspeoject
+fanshawestudentsproject
