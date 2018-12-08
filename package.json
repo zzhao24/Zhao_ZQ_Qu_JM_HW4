@@ -1,0 +1,26 @@
+{
+  "name": "an_liu-chaochao_li_av_app",
+  "version": "1.0.0",
+  "description": "Audio/Video App  --- This project will build an audio/video app by using queries and database assets.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-liu1/An_Liu-Chaochao_Li_AV_App.git"
+  },
+  "author": "An Liu & Chaochao Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/an-liu1/An_Liu-Chaochao_Li_AV_App/issues"
+  },
+  "homepage": "https://github.com/an-liu1/An_Liu-Chaochao_Li_AV_App#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-js-minify": "0.0.3",
+    "gulp-sass": "^4.0.2"
+  }
+}
