@@ -61,7 +61,7 @@
             },
 
             fetchMovieData(movie) {
-                url = movie ? `./includes/index.php?movie=${movie}` : './includes/index.php';
+                url = movie./includes/index.php?movie=${movie}` : './includes/index.php';
 
                 fetch(url) // pass in the one or many query
                 .then(res => res.json())
@@ -70,8 +70,7 @@
                         // getting one movie, so use the single array
                         console.log(data);
                         this.singlemoviedata = data;
-                    } else {
-                        // push all the video (or portfolio content) into the video array
+                    } else   
                         console.log(data);
                         this.videodata = data;
                         
