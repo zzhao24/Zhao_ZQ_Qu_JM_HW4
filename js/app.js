@@ -1,6 +1,6 @@
 (()=> {
     const vm = new Vue({
-        el: '#app',
+        el: '#fr',
 
         data: {
             mainmessage : "Welcome to Roku streaming service!",
